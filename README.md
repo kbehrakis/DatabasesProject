@@ -1,4 +1,6 @@
 # DatabasesProject
+Just how secure is your online data?  We built a website and used SQL Injection to steal and alter private data in the website's database.  A link to our paper can be found [here](https://docs.google.com/document/d/19pUvf_Kk53pQMDVaDlpvup_pDUFb70mvgOwcqE3Ja6U/edit?usp=sharing).  A link to our presentation can be found [here](https://docs.google.com/presentation/d/13y7GKjgl4jdEsxMk1mM0r_UdmwwX2GFUT7vYhcCVv3Q/edit?usp=sharing). 
+
 
 # Running the Code
 After connecting to the repository, run the following at the root level:
